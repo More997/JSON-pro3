@@ -1,0 +1,7 @@
+C:\Users\def\Desktop\Ejer\Ejer2\bin\Debug\Ejer2.exe.config
+C:\Users\def\Desktop\Ejer\Ejer2\obj\Debug\Ejer2.csprojResolveAssemblyReference.cache
+C:\Users\def\Desktop\Ejer\Ejer2\bin\Debug\Ejer2.exe
+C:\Users\def\Desktop\Ejer\Ejer2\bin\Debug\Ejer2.pdb
+C:\Users\def\Desktop\Ejer\Ejer2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\def\Desktop\Ejer\Ejer2\obj\Debug\Ejer2.exe
+C:\Users\def\Desktop\Ejer\Ejer2\obj\Debug\Ejer2.pdb
